@@ -1,6 +1,5 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-abstract: "Current research impact assessments prioritize journal citations, neglecting significant contributions and visibility of non-traditional outputs. This article explores how Global Health Engineering (GHE) measures its research visibility using metadata from diverse digital platforms. Focusing on ETH’s Research Collection and LinkedIn, we show how data on views, downloads, and demographics offers insights into dissemination and engagement. The "ghedata" R package makes this metadata open for analysis, inspiring researchers to adopt comprehensive strategies for showcasing their work's true reach and impact."
 authors:
 - family-names: "Colin"
   given-names: "Walder"

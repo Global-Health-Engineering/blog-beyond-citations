@@ -1,4 +1,10 @@
-# "Beyond Citations: Harnessing Metadata Across Digital Platforms to Measure Research Visibility"
+# Beyond Citations: Harnessing Metadata Across Digital Platforms to Measure Research Visibility
+
+<!-- badges: start -->
+[![License: CC BY
+4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgreen.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15830221.svg)](https://doi.org/10.5281/zenodo.15830221)
+<!-- badges: end -->
 
 Since Global Health Engineering (GHE) started in 2021, 133 students have written their thesis with us of which 48 are publicly available through [ETH’s Research Collection](https://www.research-collection.ethz.ch/discover?&filtertype_1=split_leitzahl&filter_relational_operator_1=equals&filter_1=09746%20-%20Tilley,%20Elizabeth%20/%20Tilley,%20Elizabeth). On [GitHub](https://github.com/Global-Health-Engineering), we have published 41 repositories, including software, hardware, and datasets – open to everyone. Nearly 3,000 people follow us on [LinkedIn](https://www.linkedin.com/company/global-health-engineering/). Yet, none of these numbers factor into conventional metrics for measuring our research's visibility. Despite long-standing criticism, the quantity of scientific publications and their citations remain the primary measures of research impact (see [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173152), [here](https://journals.lww.com/ajpmr/abstract/2019/04000/measuring_the_impact_of_research_using.14.aspx), or [here](https://www.uzh.ch/blog/hbz/2019/11/12/alternative-ways-to-measure-research-impact/?lang=en)).
 
